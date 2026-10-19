@@ -1,0 +1,17 @@
+C:\Users\user1\AppData\Local\Temp\fibcheck\fib.exe
+C:\Users\user1\AppData\Local\Temp\fibcheck\fib.deps.json
+C:\Users\user1\AppData\Local\Temp\fibcheck\fib.runtimeconfig.json
+C:\Users\user1\AppData\Local\Temp\fibcheck\fib.dll
+C:\Users\user1\AppData\Local\Temp\fibcheck\fib.pdb
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\פרקטיקוד1\פרקטיקוד1\obj\Debug\net8.0\fib.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\פרקטיקוד1\פרקטיקוד1\obj\Debug\net8.0\fib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\פרקטיקוד1\פרקטיקוד1\obj\Debug\net8.0\fib.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\פרקטיקוד1\פרקטיקוד1\obj\Debug\net8.0\fib.AssemblyInfo.cs
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\פרקטיקוד1\פרקטיקוד1\obj\Debug\net8.0\fib.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\פרקטיקוד1\פרקטיקוד1\obj\Debug\net8.0\fib.sourcelink.json
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\פרקטיקוד1\פרקטיקוד1\obj\Debug\net8.0\fib.csproj.Up2Date
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\פרקטיקוד1\פרקטיקוד1\obj\Debug\net8.0\fib.dll
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\פרקטיקוד1\פרקטיקוד1\obj\Debug\net8.0\refint\fib.dll
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\פרקטיקוד1\פרקטיקוד1\obj\Debug\net8.0\fib.pdb
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\פרקטיקוד1\פרקטיקוד1\obj\Debug\net8.0\fib.genruntimeconfig.cache
+C:\Users\user1\Desktop\לאה\שנה ב\פרקטיקוד\פרקטיקוד1\פרקטיקוד1\obj\Debug\net8.0\ref\fib.dll
